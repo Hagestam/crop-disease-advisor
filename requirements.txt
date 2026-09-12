@@ -1,0 +1,36 @@
+# TFLite conversion
+onnx==1.16.1
+onnxruntime==1.18.0
+onnx2tf==1.22.4
+tensorflow==2.16.1
+tf-keras==2.16.0
+
+# TFLite runtime (for inference only, lighter than full TF)
+tflite-runtime==2.14.0
+
+# RAG pipeline
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-anthropic==0.1.23
+chromadb==0.5.5
+sentence-transformers==3.0.1
+pypdf==4.3.1
+
+# API
+fastapi==0.112.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9
+pillow==10.4.0
+
+# Frontend
+streamlit==1.37.0
+requests==2.32.3
+
+# Utilities
+numpy==1.26.4
+scikit-learn==1.5.1
+matplotlib==3.9.1
+seaborn==0.13.2
+tqdm==4.66.5
+python-dotenv==1.0.1
+pydantic==2.8.2
