@@ -1,4 +1,3 @@
-Yes — **copy and paste everything inside this code block into your `README.md` file**:
 
 ````markdown
 # Crop Disease Advisor
