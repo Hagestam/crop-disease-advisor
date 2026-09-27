@@ -1,9 +1,8 @@
-
-````markdown
 # Crop Disease Advisor
 
 A machine learning project for detecting crop diseases from leaf images using computer vision and deep learning.
 
+````markdown
 The project uses the PlantVillage dataset to develop an image classification pipeline capable of identifying different plant disease classes from leaf images.
 
 ## Overview
